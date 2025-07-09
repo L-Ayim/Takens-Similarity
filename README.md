@@ -1,7 +1,6 @@
 # takens-similarity
 
-[![PyPI version](https://img.shields.io/pypi/v/takens-similarity.svg)](https://pypi.org/project/takens-similarity/)  
-[![License](https://img.shields.io/pypi/l/takens-similarity.svg)](https://github.com/L-Ayim/Takens-Similarity/blob/main/LICENSE)
+[![PyPI version](https://img.shields.io/pypi/v/takens-similarity.svg)](https://pypi.org/project/takens-similarity/)  [![License](https://img.shields.io/pypi/l/takens-similarity.svg)](https://github.com/L-Ayim/Takens-Similarity/blob/main/LICENSE)
 
 Core Takens embeddings and similarity tools for time-series analysis in Python.
 
