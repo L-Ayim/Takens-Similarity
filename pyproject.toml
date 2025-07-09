@@ -1,0 +1,22 @@
+[project]
+name             = "takens-similarity"
+version          = "0.2.0"
+description      = "Core Takens embeddings & similarity tools for time-series"
+readme           = "README.md"
+requires-python  = ">=3.8"
+license          = { file="LICENSE" }
+authors          = [ { name="Lawrence Ayim", email="law.ayim@gmail.com" } ]
+keywords         = ["takens","time-series","similarity","embedding"]
+classifiers      = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+dependencies     = [
+  "numpy>=1.20",
+  "scipy",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/L-Ayim/Takens-Similarity"
+"Source"   = "https://github.com/L-Ayim/Takens-Similarity"

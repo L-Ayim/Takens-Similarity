@@ -1,0 +1,21 @@
+# .gitignore for Python projects
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
